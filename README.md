@@ -14,3 +14,6 @@
 
 
 ##### DEMO IMAGE: 
+![alt text](/normal.png "normal")
+
+![alt text](/check.png "checking")
